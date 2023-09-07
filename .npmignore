@@ -1,0 +1,6 @@
+src
+node_modules
+jest.*
+pnpm-lock.yaml
+tests
+assets
